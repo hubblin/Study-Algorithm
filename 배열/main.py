@@ -1,3 +1,5 @@
+# Q1 (https://programmers.co.kr/learn/courses/30/lessons/77484)
+
 def check_score(n):
     print(n)
     for i in range(1, 7):
